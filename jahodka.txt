@@ -3,19 +3,19 @@ jahodka2
 jahodka je fajna
 jahodka 1 je fajna
 jahodka 2 je fajna
-<<<<<<< HEAD
+
 
 melonik1 nejaky
 melonik2 je melonik
 
 
 melonik3
-=======
-melonik1 zmena
+
+melonik1 
 melonik2 zmena
 zmena pridana
 melonik3 zmena
->>>>>>> 3c1d04a9289368b592d5afd2fc7ff2bfb07b5871
+
 melonik1 je fajny
 melonik2 je fajny
 melonik3 je fajny
