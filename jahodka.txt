@@ -3,9 +3,10 @@ jahodka2
 jahodka je fajna
 jahodka 1 je fajna
 jahodka 2 je fajna
-melonik1 
-melonik2
-melonik3
+melonik1 zmena
+melonik2 zmena
+zmena pridana
+melonik3 zmena
 melonik1 je fajny
 melonik2 je fajny
 melonik3 je fajny
